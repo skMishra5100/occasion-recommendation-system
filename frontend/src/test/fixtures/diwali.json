@@ -1,0 +1,98 @@
+{
+  "query": "Diwali",
+  "resolved_occasion": {
+    "name": "Diwali",
+    "match_type": "keyword",
+    "confidence": 1.0
+  },
+  "total": 22,
+  "returned": 3,
+  "results": [
+    {
+      "product_id": "cml265ss000gcma01l3qqapo5",
+      "vendor_id": "cml24w7at00e0ma01492d51nh",
+      "vendor_category": "cml256swj00elma01jdp2zgfb",
+      "vendor_category_desc": "Festive Gift Hampers",
+      "title": "Diwali Luxury Gift Hampers",
+      "description": "Our Diwali Luxury Gift Hampers are curated to celebrate the festival with elegance and indulgence. Each hamper features a refined selection of premium treats, festive essentials, and beautifully crafted details, all presented in sophisticated Diwali-inspired packaging.",
+      "short_description": "Our Luxury Gift Hampers are thoughtfully curated to offer an exceptional gifting experience. Each hamper brings together premium selections—refined tr",
+      "files": [
+        "https://s3aws.emilo.in/products/1769855316508-9c34fd3d-32d5-4e73-9412-51f4f4d0bfe7.png"
+      ],
+      "image": "https://s3aws.emilo.in/products/1769855316508-9c34fd3d-32d5-4e73-9412-51f4f4d0bfe7.png",
+      "brand": "Joy of Giving",
+      "price": 3499.0,
+      "discount_percentage": 10.0,
+      "final_price": 3149.1,
+      "snippet": "Our Diwali Luxury Gift Hampers are curated to celebrate the festival with elegance and indulgence. Each hamper features a refined selection of premium treats…",
+      "score": 0.9708,
+      "relevance": 1.0,
+      "reasons": [
+        "Title mentions \"diwali\"",
+        "Related: festive, festival, hamper"
+      ],
+      "score_breakdown": {
+        "semantic": 0.6208,
+        "keyword": 1.0,
+        "penalty": 0.0
+      }
+    },
+    {
+      "product_id": "cml25lds400fgma0155hp1at1",
+      "vendor_id": "cml24w7at00e0ma01492d51nh",
+      "vendor_category": "cml256swj00elma01jdp2zgfb",
+      "vendor_category_desc": "Festive Gift Hampers",
+      "title": "Diwali Dry fruits hampers",
+      "description": "Our Diwali Dry Fruits Hampers are thoughtfully curated to celebrate the spirit of prosperity, health, and togetherness. Featuring a premium selection of handpicked dry fruits, beautifully packed in elegant festive packaging, each hamper reflects tradition with a touch of luxury.",
+      "short_description": "Our Dry Fruits Hampers are thoughtfully curated with the finest selection of premium nuts and dried fruits. Beautifully presented and rich in flavor,",
+      "files": [
+        "https://s3aws.emilo.in/products/1769854364081-1dba5a79-474b-4183-b7ea-2865cc74f368.png"
+      ],
+      "image": "https://s3aws.emilo.in/products/1769854364081-1dba5a79-474b-4183-b7ea-2865cc74f368.png",
+      "brand": "Joy of Giving",
+      "price": 1999.0,
+      "discount_percentage": 5.0,
+      "final_price": 1899.05,
+      "snippet": "Our Diwali Dry Fruits Hampers are thoughtfully curated to celebrate the spirit of prosperity, health, and togetherness. Featuring a premium selection of…",
+      "score": 0.8843,
+      "relevance": 0.9108,
+      "reasons": [
+        "Title mentions \"diwali\"",
+        "Related: festive, hamper, dry fruits"
+      ],
+      "score_breakdown": {
+        "semantic": 0.5343,
+        "keyword": 1.0,
+        "penalty": 0.0
+      }
+    },
+    {
+      "product_id": "cml24fnp600d5ma01bepjidr4",
+      "vendor_id": "cml21tavh00a7ma018cjo99db",
+      "vendor_category": "cml0ue769003no201f7vi986z",
+      "vendor_category_desc": "Gift Cards",
+      "title": "Seasonal Gift Cards",
+      "description": "Our Seasonal Gift Cards are thoughtfully designed to reflect the spirit of each celebration. Featuring festive details and refined finishes, they add a timely and meaningful touch to your gifting.",
+      "short_description": "Our Gift Cards are the perfect expression of thoughtful giving—simple, refined, and endlessly meaningful. Designed for moments when choice matters mos",
+      "files": [
+        "https://s3aws.emilo.in/products/1769852416007-a7ddb805-412a-407d-97f5-71b70a81f01a.png"
+      ],
+      "image": "https://s3aws.emilo.in/products/1769852416007-a7ddb805-412a-407d-97f5-71b70a81f01a.png",
+      "brand": "The Gift Atelier",
+      "price": 1299.0,
+      "discount_percentage": 5.0,
+      "final_price": 1234.05,
+      "snippet": "Our Seasonal Gift Cards are thoughtfully designed to reflect the spirit of each celebration. Featuring festive details and refined finishes, they add a timely…",
+      "score": 0.492,
+      "relevance": 0.5068,
+      "reasons": [
+        "Related: festive"
+      ],
+      "score_breakdown": {
+        "semantic": 0.4395,
+        "keyword": 0.15,
+        "penalty": 0.0
+      }
+    }
+  ]
+}

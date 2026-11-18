@@ -1,0 +1,39 @@
+@import "tailwindcss";
+
+@theme {
+  --font-display: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: "Figtree", ui-sans-serif, system-ui, sans-serif;
+
+  --color-ink: #26143a;      /* aubergine: text */
+  --color-paper: #f6f3f8;    /* cool lilac-grey page background */
+  --color-line: #e3dce9;     /* borders */
+  --color-muted: #675a75;    /* secondary text (5.4:1 on paper) */
+  --color-wash: #ece5f3;     /* chip / placeholder fill */
+  --color-berry: #b3195b;    /* primary action */
+  --color-berry-deep: #8e1049;
+  --color-marigold: #f2a91b; /* match meter */
+}
+
+html {
+  background: var(--color-paper);
+  color: var(--color-ink);
+  -webkit-text-size-adjust: 100%;
+}
+body {
+  font-family: var(--font-sans);
+  min-height: 100vh;
+}
+
+/* Visible keyboard focus everywhere. */
+:focus-visible {
+  outline: 3px solid var(--color-marigold);
+  outline-offset: 2px;
+  border-radius: 0.5rem;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}

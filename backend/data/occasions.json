@@ -1,0 +1,754 @@
+[
+  {
+    "name": "Birthday",
+    "featured": true,
+    "aliases": [
+      "bday",
+      "b day",
+      "happy birthday",
+      "birthday gift",
+      "birthday gifts",
+      "birthday party",
+      "birthday surprise",
+      "turning 30",
+      "turning 40",
+      "turning 50"
+    ],
+    "description": "Celebrating someone's birthday with a thoughtful, personal present: fresh flower bouquets, chocolates, watches, jewellery, perfumes, personalised gifts, soft toys, pens, gift sets and greeting cards.",
+    "keywords": [
+      "birthday",
+      "personalised",
+      "personalized",
+      "bouquet",
+      "chocolate",
+      "gift set",
+      "surprise"
+    ],
+    "related": [
+      "Kids Birthday",
+      "Congratulations"
+    ]
+  },
+  {
+    "name": "Kids Birthday",
+    "featured": false,
+    "aliases": [
+      "kids birthday",
+      "kid birthday",
+      "child birthday",
+      "childs birthday",
+      "childrens birthday",
+      "first birthday",
+      "toddler birthday",
+      "birthday for kids",
+      "return gifts",
+      "return gift"
+    ],
+    "description": "A young child's birthday or party: toys, soft toys and teddy bears, plushies, arts and craft kits, painting and colouring kits, slime kits and musical toys for children.",
+    "keywords": [
+      "kids",
+      "kid",
+      "children",
+      "child",
+      "toy",
+      "plush",
+      "plushie",
+      "teddy",
+      "craft",
+      "play",
+      "toddler",
+      "musical"
+    ],
+    "related": [
+      "Birthday",
+      "Baby Shower"
+    ]
+  },
+  {
+    "name": "Wedding",
+    "featured": true,
+    "aliases": [
+      "marriage",
+      "shaadi",
+      "shadi",
+      "wedding gift",
+      "wedding gifts",
+      "wedding day",
+      "bridal",
+      "bride",
+      "groom",
+      "bridal shower"
+    ],
+    "description": "Gifts for a couple getting married or for the bridal party: elegant jewellery, fresh flowers, luxury gift hampers, couple gifts, home decor, perfumes, sarees and ethnic wear, gift boxes and cards.",
+    "keywords": [
+      "wedding",
+      "bridal",
+      "bride",
+      "groom",
+      "couple",
+      "marriage",
+      "jewellery",
+      "jewelry",
+      "elegant",
+      "saree"
+    ],
+    "related": [
+      "Engagement",
+      "Anniversary",
+      "Housewarming"
+    ]
+  },
+  {
+    "name": "Anniversary",
+    "featured": true,
+    "aliases": [
+      "wedding anniversary",
+      "marriage anniversary",
+      "anniversary gift",
+      "anniversary gifts",
+      "couple anniversary",
+      "25th anniversary",
+      "silver jubilee"
+    ],
+    "description": "Celebrating years together as a couple: romantic gifts, roses, couple perfumes and couple mugs, personalised keepsakes, jewellery, chocolates and scented candles.",
+    "keywords": [
+      "anniversary",
+      "romantic",
+      "couple",
+      "love",
+      "together",
+      "keepsake",
+      "personalised",
+      "personalized"
+    ],
+    "related": [
+      "Valentines Day",
+      "Wedding",
+      "Engagement",
+      "Long Distance Love"
+    ]
+  },
+  {
+    "name": "Valentine's Day",
+    "featured": true,
+    "aliases": [
+      "valentines",
+      "valentine",
+      "valentines day",
+      "v day",
+      "valentine gift",
+      "valentines gift",
+      "romantic gift",
+      "date night",
+      "girlfriend",
+      "boyfriend"
+    ],
+    "description": "Romantic gifts for a partner: roses and forever roses, chocolates, couple perfumes, jewellery, scented candles, love letters and personalised keepsakes.",
+    "keywords": [
+      "valentine",
+      "romantic",
+      "romance",
+      "love",
+      "rose",
+      "couple",
+      "chocolate",
+      "candle",
+      "heart"
+    ],
+    "related": [
+      "Anniversary",
+      "Long Distance Love"
+    ]
+  },
+  {
+    "name": "Diwali",
+    "featured": true,
+    "aliases": [
+      "deepavali",
+      "dipawali",
+      "festival of lights",
+      "diwali gift",
+      "diwali gifts",
+      "diwali hamper"
+    ],
+    "description": "The Hindu festival of lights, celebrated with family, friends and colleagues: festive gift hampers, dry fruits, sweets, chocolates, candles and diyas, home decor, jewellery, ethnic wear and gift boxes.",
+    "keywords": [
+      "diwali",
+      "festive",
+      "festival",
+      "hamper",
+      "dry fruits",
+      "candle",
+      "decor",
+      "prosperity",
+      "sweets"
+    ],
+    "related": []
+  },
+  {
+    "name": "Holi",
+    "featured": false,
+    "aliases": [
+      "festival of colours",
+      "festival of colors",
+      "holi gift",
+      "holi gifts",
+      "holi hamper"
+    ],
+    "description": "The spring festival of colours celebrated with family and friends: festive hampers, dry fruits, sweets and snacks, colourful gifts and white cotton clothing.",
+    "keywords": [
+      "holi",
+      "colour",
+      "color",
+      "festive",
+      "festival",
+      "hamper",
+      "dry fruits",
+      "snacks"
+    ],
+    "related": []
+  },
+  {
+    "name": "Christmas",
+    "featured": false,
+    "aliases": [
+      "xmas",
+      "x mas",
+      "christmas gift",
+      "christmas gifts",
+      "secret santa",
+      "santa"
+    ],
+    "description": "Christmas gifting: festive hampers, dry fruits, chocolates, scented candles, soft toys and teddy bears, gift wrapping, greeting cards and cosy home decor.",
+    "keywords": [
+      "christmas",
+      "xmas",
+      "santa",
+      "festive",
+      "hamper",
+      "chocolate",
+      "candle",
+      "wrapping",
+      "plush"
+    ],
+    "related": [
+      "New Year"
+    ]
+  },
+  {
+    "name": "New Year",
+    "featured": false,
+    "aliases": [
+      "new years",
+      "new year gift",
+      "new year eve",
+      "new years eve",
+      "nye",
+      "happy new year"
+    ],
+    "description": "Starting a fresh year: notebooks, journals and planners, self-care and wellness gifts, candles, gift hampers, pens, indoor plants and greeting cards.",
+    "keywords": [
+      "new year",
+      "planner",
+      "notebook",
+      "journal",
+      "resolution",
+      "wellness"
+    ],
+    "related": [
+      "Christmas"
+    ]
+  },
+  {
+    "name": "Raksha Bandhan",
+    "featured": false,
+    "aliases": [
+      "rakhi",
+      "rakshabandhan",
+      "raksha bandhan gift",
+      "rakhi gift",
+      "rakhi gifts",
+      "brother sister",
+      "bhai dooj"
+    ],
+    "description": "The festival celebrating the bond between brothers and sisters: gifts for siblings such as chocolates, dry fruit hampers, watches, pens, jewellery, personalised gifts and greeting cards.",
+    "keywords": [
+      "rakhi",
+      "sibling",
+      "brother",
+      "sister",
+      "chocolate",
+      "hamper",
+      "watch",
+      "bond"
+    ],
+    "related": [
+      "Friendship Day"
+    ]
+  },
+  {
+    "name": "Eid",
+    "featured": false,
+    "aliases": [
+      "eid mubarak",
+      "eid ul fitr",
+      "eid al fitr",
+      "eid ul adha",
+      "ramadan",
+      "ramzan",
+      "eid gift",
+      "eid gifts"
+    ],
+    "description": "Eid celebrations with family and friends: festive hampers, dry fruits, perfumes and attar, sweets and chocolates, ethnic wear and gift boxes.",
+    "keywords": [
+      "eid",
+      "festive",
+      "perfume",
+      "attar",
+      "dry fruits",
+      "hamper",
+      "sweets"
+    ],
+    "related": []
+  },
+  {
+    "name": "Karwa Chauth",
+    "featured": false,
+    "aliases": [
+      "karva chauth",
+      "karwachauth",
+      "karwa chauth gift",
+      "karva chauth gift"
+    ],
+    "description": "Traditional gifts for a wife on Karwa Chauth: jewellery, sarees and ethnic wear, fresh flowers, chocolates, perfumes and gift hampers.",
+    "keywords": [
+      "karwa chauth",
+      "wife",
+      "jewellery",
+      "jewelry",
+      "saree",
+      "flowers",
+      "festive",
+      "traditional"
+    ],
+    "related": [
+      "Anniversary",
+      "Valentines Day"
+    ]
+  },
+  {
+    "name": "Mother's Day",
+    "featured": false,
+    "aliases": [
+      "mothers day",
+      "mom",
+      "mum",
+      "mother",
+      "mummy",
+      "gift for mom",
+      "gift for mother",
+      "gift for mum"
+    ],
+    "description": "Appreciating mothers: fresh flowers, jewellery, perfumes, skincare and spa gifts, herbal teas, personalised gifts, sarees and kurtis, chocolates and greeting cards.",
+    "keywords": [
+      "mother",
+      "mom",
+      "mum",
+      "flowers",
+      "skincare",
+      "jewellery",
+      "jewelry",
+      "saree",
+      "kurti",
+      "self-care"
+    ],
+    "related": [
+      "Thank You"
+    ]
+  },
+  {
+    "name": "Father's Day",
+    "featured": false,
+    "aliases": [
+      "fathers day",
+      "dad",
+      "father",
+      "papa",
+      "daddy",
+      "gift for dad",
+      "gift for father",
+      "gift for papa"
+    ],
+    "description": "Appreciating fathers: watches, pens, shirts and office wear, wellness gifts, perfumes, personalised mugs and gift hampers.",
+    "keywords": [
+      "father",
+      "dad",
+      "papa",
+      "watch",
+      "pen",
+      "shirt",
+      "men",
+      "office"
+    ],
+    "related": [
+      "Thank You"
+    ]
+  },
+  {
+    "name": "Friendship Day",
+    "featured": false,
+    "aliases": [
+      "best friend",
+      "bff",
+      "friends",
+      "friendship",
+      "gift for friend",
+      "gift for best friend"
+    ],
+    "description": "Fun, personal gifts for friends: keychain plushies, personalised gifts, chocolates, mugs, bracelets, notebooks and craft kits.",
+    "keywords": [
+      "friend",
+      "bff",
+      "bracelet",
+      "keychain",
+      "mug",
+      "fun",
+      "chocolate"
+    ],
+    "related": [
+      "Birthday",
+      "Raksha Bandhan"
+    ]
+  },
+  {
+    "name": "Housewarming",
+    "featured": true,
+    "aliases": [
+      "house warming",
+      "griha pravesh",
+      "gruhapravesh",
+      "new home",
+      "new house",
+      "new apartment",
+      "moving in",
+      "housewarming gift"
+    ],
+    "description": "Moving into a new home: indoor plants and planters, scented candles, home decor, natural fibre decor, gift hampers, gift sets, bath and kitchen goods.",
+    "keywords": [
+      "housewarming",
+      "home",
+      "plant",
+      "planter",
+      "decor",
+      "candle",
+      "new home"
+    ],
+    "related": [
+      "Wedding"
+    ]
+  },
+  {
+    "name": "Baby Shower",
+    "featured": true,
+    "aliases": [
+      "newborn",
+      "new baby",
+      "baby born",
+      "baby shower gift",
+      "godh bharai",
+      "baby gift",
+      "welcome baby",
+      "baby arrival",
+      "baby girl",
+      "baby boy"
+    ],
+    "description": "Welcoming a new baby: soft toys, teddy bears, plushies, gift sets, baby-safe keepsakes and gift hampers for the parents-to-be.",
+    "keywords": [
+      "baby",
+      "newborn",
+      "infant",
+      "shower",
+      "plush",
+      "teddy",
+      "soft",
+      "cuddly"
+    ],
+    "related": [
+      "Kids Birthday"
+    ]
+  },
+  {
+    "name": "Engagement",
+    "featured": false,
+    "aliases": [
+      "engagement gift",
+      "roka",
+      "ring ceremony",
+      "getting engaged",
+      "sagai",
+      "engagement party"
+    ],
+    "description": "Celebrating a couple's engagement: jewellery, couple gifts, luxury gift hampers, flowers, perfumes and personalised keepsakes.",
+    "keywords": [
+      "engagement",
+      "couple",
+      "ring",
+      "jewellery",
+      "jewelry",
+      "commitment"
+    ],
+    "related": [
+      "Wedding",
+      "Anniversary"
+    ]
+  },
+  {
+    "name": "Office Party",
+    "featured": true,
+    "aliases": [
+      "office gifting",
+      "office gift",
+      "corporate gift",
+      "corporate gifting",
+      "corporate gifts",
+      "client gift",
+      "work party",
+      "team party",
+      "team outing",
+      "colleague",
+      "colleagues",
+      "employee appreciation",
+      "secret santa office"
+    ],
+    "description": "Gifts for colleagues, clients and teams: executive pens, watches, office wear, notebooks and journals, desk plants, gift hampers, wellness gifts, gift cards and snacks.",
+    "keywords": [
+      "office",
+      "corporate",
+      "executive",
+      "professional",
+      "team",
+      "client",
+      "desk",
+      "formal",
+      "pen"
+    ],
+    "related": [
+      "Congratulations",
+      "Thank You",
+      "Farewell"
+    ]
+  },
+  {
+    "name": "Graduation",
+    "featured": false,
+    "aliases": [
+      "convocation",
+      "graduation day",
+      "graduation gift",
+      "passing out",
+      "grad"
+    ],
+    "description": "Marking academic achievement: pens, watches, notebooks and journals, wellness gifts, gift cards, personalised keepsakes and smart formal wear.",
+    "keywords": [
+      "graduation",
+      "achievement",
+      "pen",
+      "watch",
+      "notebook",
+      "journal",
+      "professional"
+    ],
+    "related": [
+      "Congratulations"
+    ]
+  },
+  {
+    "name": "Farewell",
+    "featured": false,
+    "aliases": [
+      "retirement",
+      "retire",
+      "retiring",
+      "farewell party",
+      "farewell gift",
+      "leaving gift",
+      "goodbye",
+      "leaving the company"
+    ],
+    "description": "Saying goodbye or marking a retirement: personalised keepsakes, watches, pens, gift hampers, plants, journals, wellness and spa gifts and greeting cards.",
+    "keywords": [
+      "farewell",
+      "retirement",
+      "memento",
+      "keepsake",
+      "watch",
+      "hamper",
+      "journal"
+    ],
+    "related": [
+      "Office Party",
+      "Thank You"
+    ]
+  },
+  {
+    "name": "Congratulations",
+    "featured": false,
+    "aliases": [
+      "congrats",
+      "promotion",
+      "new job",
+      "job promotion",
+      "achievement",
+      "success",
+      "well done"
+    ],
+    "description": "Congratulating someone on a success or promotion: pens, watches, fresh flowers, chocolates, gift hampers, gift cards and desk plants.",
+    "keywords": [
+      "congratulations",
+      "promotion",
+      "success",
+      "flowers",
+      "chocolate",
+      "hamper",
+      "pen"
+    ],
+    "related": [
+      "Graduation",
+      "Birthday",
+      "Office Party"
+    ]
+  },
+  {
+    "name": "Thank You",
+    "featured": false,
+    "aliases": [
+      "thanks",
+      "thank you gift",
+      "appreciation",
+      "gratitude",
+      "token of appreciation"
+    ],
+    "description": "Expressing gratitude: greeting cards, chocolates, flowers, herbal tea, candles, small hampers and notebooks.",
+    "keywords": [
+      "thank",
+      "gratitude",
+      "appreciation",
+      "card",
+      "chocolate",
+      "tea",
+      "flowers"
+    ],
+    "related": [
+      "Teachers Day",
+      "Office Party"
+    ]
+  },
+  {
+    "name": "Get Well Soon",
+    "featured": false,
+    "aliases": [
+      "get well",
+      "recovery",
+      "speedy recovery",
+      "feel better",
+      "hospital",
+      "unwell",
+      "sick"
+    ],
+    "description": "Cheering up someone who is unwell: fresh flowers, herbal teas, wellness and self-care kits, soft toys, journals, calming candles and dry fruit hampers.",
+    "keywords": [
+      "get well",
+      "recovery",
+      "comfort",
+      "wellness",
+      "herbal",
+      "tea",
+      "flowers",
+      "calm"
+    ],
+    "related": []
+  },
+  {
+    "name": "Teacher's Day",
+    "featured": false,
+    "aliases": [
+      "teachers day",
+      "teacher",
+      "teachers",
+      "guru purnima",
+      "gift for teacher"
+    ],
+    "description": "Thanking teachers: pens, notebooks and journals, indoor plants, greeting cards, chocolates, desk accessories and herbal tea.",
+    "keywords": [
+      "teacher",
+      "pen",
+      "notebook",
+      "journal",
+      "thank",
+      "plant",
+      "card"
+    ],
+    "related": [
+      "Thank You"
+    ]
+  },
+  {
+    "name": "Self-Care",
+    "featured": false,
+    "aliases": [
+      "self care",
+      "treat yourself",
+      "me time",
+      "spa day",
+      "pamper",
+      "pamper myself",
+      "just because",
+      "relax",
+      "relaxation"
+    ],
+    "description": "Pampering yourself or someone special for no reason: self-care kits, organic bath salts and scrubs, skincare, body oils, scented candles, herbal teas, perfumes and wellness gifts.",
+    "keywords": [
+      "self-care",
+      "relax",
+      "spa",
+      "pamper",
+      "wellness",
+      "bath",
+      "skincare",
+      "candle",
+      "calm",
+      "organic"
+    ],
+    "related": [
+      "Get Well Soon"
+    ]
+  },
+  {
+    "name": "Long Distance Love",
+    "featured": false,
+    "aliases": [
+      "long distance relationship",
+      "long distance",
+      "ldr",
+      "miss you",
+      "missing you",
+      "far away",
+      "love letter"
+    ],
+    "description": "Staying close across the miles: open-when letters, touch bracelets, couple mugs, personalised story books, custom star maps and heartfelt keepsakes.",
+    "keywords": [
+      "long distance",
+      "miss you",
+      "couple",
+      "bracelet",
+      "letters",
+      "keepsake",
+      "love",
+      "personalised"
+    ],
+    "related": [
+      "Valentines Day",
+      "Anniversary"
+    ]
+  }
+]
